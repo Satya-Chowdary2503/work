@@ -1,0 +1,10 @@
+def greeting(name):
+    print("charan"+name)
+
+def number(a):
+    if(a%2==0):
+        print("even")
+    else:
+        print("odd")
+
+        
